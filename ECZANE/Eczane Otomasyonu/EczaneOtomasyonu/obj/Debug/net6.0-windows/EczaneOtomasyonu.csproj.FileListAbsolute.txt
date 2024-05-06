@@ -1,0 +1,617 @@
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.exe
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.deps.json
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.runtimeconfig.json
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Customers.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Dashboard.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.ManuFacturer.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Medicines.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Properties.Resources.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Sellers.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfo.cs
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOt.0BB2E5FF.Up2Date
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\refint\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.genruntimeconfig.cache
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\ref\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Selling.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AdminLogin.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Login.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.exe
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.deps.json
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.runtimeconfig.json
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AdminLogin.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Customers.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Dashboard.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Login.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.ManuFacturer.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Medicines.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Properties.Resources.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Sellers.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Selling.resources
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfo.cs
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOt.0BB2E5FF.Up2Date
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\refint\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.genruntimeconfig.cache
+C:\Users\nasip\Desktop\EczaneOtomasyonu - Copy\EczaneOtomasyonu\obj\Debug\net6.0-windows\ref\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.exe
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.deps.json
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.runtimeconfig.json
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AdminLogin.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Customers.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Dashboard.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Login.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.ManuFacturer.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Medicines.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Properties.Resources.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Sellers.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Selling.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfo.cs
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOt.0BB2E5FF.Up2Date
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\refint\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.genruntimeconfig.cache
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME DEVAP EDIYOR SİSTEM ODEVİ\EczaneOtomasyonu\obj\Debug\net6.0-windows\ref\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.exe
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.deps.json
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.runtimeconfig.json
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AdminLogin.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Customers.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Dashboard.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Login.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.ManuFacturer.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Medicines.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Properties.Resources.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Sellers.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Selling.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfo.cs
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOt.0BB2E5FF.Up2Date
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\refint\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.genruntimeconfig.cache
+C:\Users\nasip\Desktop\Order 66\ECZANE\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\ref\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.exe
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.deps.json
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.runtimeconfig.json
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AdminLogin.resources
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Customers.resources
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Dashboard.resources
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Login.resources
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.ManuFacturer.resources
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Medicines.resources
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Properties.Resources.resources
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Sellers.resources
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Selling.resources
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfo.cs
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOt.0BB2E5FF.Up2Date
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\refint\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.genruntimeconfig.cache
+C:\Users\nasip\Desktop\DÜZLEME Bitti Sistem ödevi\EczaneOtomasyonu\obj\Debug\net6.0-windows\ref\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.exe
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.deps.json
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.runtimeconfig.json
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AdminLogin.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Customers.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Dashboard.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Login.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.ManuFacturer.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Medicines.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Properties.Resources.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Sellers.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Selling.resources
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfo.cs
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOt.0BB2E5FF.Up2Date
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\refint\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.genruntimeconfig.cache
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\ref\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.exe
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.deps.json
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.runtimeconfig.json
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AdminLogin.resources
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Customers.resources
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Dashboard.resources
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Login.resources
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.ManuFacturer.resources
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Medicines.resources
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Properties.Resources.resources
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Sellers.resources
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Selling.resources
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfo.cs
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOt.0BB2E5FF.Up2Date
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\refint\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.genruntimeconfig.cache
+C:\Users\nasip\Desktop\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\ref\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.exe
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.deps.json
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.runtimeconfig.json
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AdminLogin.resources
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Customers.resources
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Dashboard.resources
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Login.resources
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.ManuFacturer.resources
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Medicines.resources
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Properties.Resources.resources
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Sellers.resources
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.Selling.resources
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.AssemblyInfo.cs
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOt.0BB2E5FF.Up2Date
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\refint\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.pdb
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.genruntimeconfig.cache
+C:\Users\nasip\Desktop\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\ref\EczaneOtomasyonu.dll
+C:\Users\nasip\Desktop\Order 66\ECZANE\Eczane Otomasyonu\EczaneOtomasyonu\obj\Debug\net6.0-windows\EczaneOtomasyonu.SiparisGecmısı.resources
